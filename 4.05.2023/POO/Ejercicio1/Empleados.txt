@@ -1,0 +1,13 @@
+Departamento de Redes
+Jefe de Secretaria | $4500 15 años Jose Jimenez 456789 16/02/1990 33
+Tecnico en redes | $3800 8años Carlos Vilchez 456789 17/03/1990 30
+Tecnico | $4500 7 años Mouriño Guardiola 4561278 16/05/1990 30
+Departamento de Seguridad
+Tecnico | $46900 15 años Ricardo Ore 654656 16/04/1989 34
+Practicante tecnico | $2500 2 años Juanmi Ortega 456987 16/071999 24
+Supervisor | $4560 6 Jean Quispicho 456231 16/07/1990 30
+Tecnico | $4500 5 años Carlos Diego 4561238 16/03/1991 31
+Departamento de Software
+Jefe de Departamento | $5200 10años Juan Guzman 630444 16/03/1987 36
+Tecnico supervisor | $4500 15 años  Josue Perez 456321 16/04/1987 36
+Tecnico en seguridad | $3000 4 años Josiño Lampard 45678912 16/08/1999 24

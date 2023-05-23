@@ -1,0 +1,16 @@
+Motocar Liverpool S.A.
+.- Automoviles :
+Cilindrada motor: 2| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 5| Certificacion: 2 estrellas| Color: Rojo| Marca: Hilux
+Cilindrada motor: 1.8| Nro asientos: 4| Nro ruedas: 2| Nro puertas: 5| Certificacion: 3 estrellas | Color: Morado| Marca: Toyota
+Cilindrada motor: 1.78| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 6| Certificacion: 4 estrellas | Color: Plateado| Marca: Hyundai
+Cilindrada motor: 3| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 5| Certificacion: 4 estrellas | Color: Rojo| Marca: Hylux
+Cilindrada motor: 2.2| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 5| Certificacion: 5 estrellas| Color: Amarillo| Marca: Toyota
+Cilindrada motor: 1.5| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 6| Certificacion: 4.5 estrellas| Color: Vino| Marca: Ford
+Cilindrada motor: 2.5| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 5| Certificacion: 5 estrellas| Color: Azul marino| Marca: BMW
+Cilindrada motor: 3| Nro asientos: 4| Nro ruedas: 4| Nro puertas: 6| Certificacion: 4 estrellas| Color: Rojo| Marca: Lexus
+.- Motocicletas :
+Cilindrada motor: 2.2| Nro asientos: 2| Nro ruedas: 0| Nro puertas: 2| Certificacion: 3 estrellas| Color: Rojo encendido| Marca: Pulsar
+Cilindrada motor: 1.5| Nro asientos: 2| Nro ruedas: 0| Nro puertas: 2| Certificacion: 5 estrellas| Color: Plateado con negro| Marca: Sumo
+Cilindrada motor: 3| Nro asientos: 2| Nro ruedas: 0| Nro puertas: 2| Certificacion: 4 estrellas | Color: Azul marino| Marca: Bmw
+Cilindrada motor: 1.75| Nro asientos: 2| Nro ruedas: 0| Nro puertas: 2| Certificacion: 3 estrellas| Color: Negro con azul | Marca: Polaris
+Cilindrada motor: 3| Nro asientos: 2| Nro ruedas: 0| Nro puertas: 2| Certificacion: 5 estrellas | Color: Vino| Marca: Lifan
