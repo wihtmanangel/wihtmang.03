@@ -1,0 +1,12 @@
+    Bibliotecario : 
+  | Libro resgistrado  
+45687 Odisea  Guerra  Homero
+Bibliotecario : 
+  | Libro resgistrado  
+451278 La Iliada  Paz y Justicia  Homero
+Bibliotecario : 
+  | Libro resgistrado  
+458712 La bella y la Bestia  Desamor  Anonimo
+Bibliotecario : 
+  | Libro resgistrado  
+45678 Hamlet  Desfamiliarizacion  Kafka
